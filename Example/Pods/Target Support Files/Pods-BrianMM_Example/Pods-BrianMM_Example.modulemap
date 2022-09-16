@@ -1,0 +1,6 @@
+framework module Pods_BrianMM_Example {
+  umbrella header "Pods-BrianMM_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

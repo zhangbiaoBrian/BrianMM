@@ -1,0 +1,27 @@
+PODS:
+  - BrianMM (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - BrianMM (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  BrianMM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BrianMM: ca1aa9409eb4e6c9fe63fb0b1f62bce95036ac85
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 4f666747057c66a71d75ead65dbfb4f5f07014c4
+
+COCOAPODS: 1.11.3
